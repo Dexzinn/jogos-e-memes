@@ -95,7 +95,7 @@ header nav li a {
     text-align: justify;
 }
 
-@media screen and (min-width: 390px) and (max-width: 480px){
+@media screen and (min-width: 382px) and (max-width: 480px){
 
     * {
         margin: 0;
@@ -132,6 +132,7 @@ header nav li a {
         margin-top: -9px;
         background: url(imgs/jeej_para_celular.jpg) no-repeat;
         height: 350px;
+        width: 100%;
     }
 
     #container h2#jj {
