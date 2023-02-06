@@ -133,7 +133,7 @@ header nav li a {
         background: url(imgs/jeej_para_celular.jpg) no-repeat;
         background-size: cover;
         height: 350px;
-        width: 200px;
+        overflow-x: hidden;
     }
 
     #container h2#jj {
