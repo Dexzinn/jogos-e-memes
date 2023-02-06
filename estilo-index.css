@@ -131,6 +131,7 @@ header nav li a {
     #container {
         margin-top: -9px;
         background: url(imgs/jeej_para_celular.jpg) no-repeat;
+        background-position: left center;
         height: 350px;
         width: 100%;
     }
