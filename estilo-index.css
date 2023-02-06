@@ -97,6 +97,10 @@ header nav li a {
 
 @media screen and (min-width: 320px) and (max-width: 480px){
 
+    #principal {
+        width: 382px;
+    }
+
     header {
         background-color: rgb(122, 122, 122);
         width: 100%;
