@@ -105,7 +105,7 @@ header nav li a {
 
     #principal {
         width: 382px;
-        margin-right: 0px;
+        margin-left: -20px;
         overflow-x: hidden;
         
     }
@@ -131,7 +131,7 @@ header nav li a {
     #container {
         margin-top: -9px;
         background: url(imgs/jeej_para_celular.jpg) no-repeat;     
-        height: 530px;
+        height: 300px;
         width: 382px;
     }
 
