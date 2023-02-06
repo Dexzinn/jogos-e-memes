@@ -100,14 +100,15 @@ header nav li a {
     * {
         margin: 0;
         padding: 0;
+        overflow-x: hidden;
+        
         
     }
 
     #principal {
         width: 382px;
         margin-left: -20px;
-        overflow-x: hidden;
-        
+
     }
     
 
